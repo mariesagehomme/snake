@@ -1,0 +1,30 @@
+{
+	"game": "Snake",
+	"version": "1.0",
+	"authors": [
+		"Laurence",
+		"Marie",
+		"Fabricio",
+		"Saïd",
+		"Ozgur",
+		"Halil",
+		"Moïse",
+		"Walid",
+		"Anh",
+		"Geoffrey"
+	],
+	"players": [
+		{
+			"nom": "Bob",
+			"score": 520
+		},
+		{
+			"nom": "Marc",
+			"score": 490
+		},
+		{
+			"nom": "Sylvie",
+			"score": 484
+		}
+	]
+}
